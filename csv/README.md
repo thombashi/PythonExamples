@@ -1,4 +1,9 @@
-﻿# Read a CSV file (ascii)
+﻿# Summary
+A sample program to read a CSV file.
+This program works for both Python 2/3.
+
+
+# Read a CSV file (ascii)
 ```bash
 $ ./csv_read.py sample_ascii.csv
 --- header ---
