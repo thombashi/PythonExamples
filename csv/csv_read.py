@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 """
-Sample program to read a CSV file.
-This works for both Python 2/3.
+A sample program to read a CSV file.
+This program works for both Python 2/3.
 """
 
 from __future__ import print_function
